@@ -1,0 +1,55 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+.titlesxn{
+  background-color: #5db9ff;
+  width: 100%;
+  height: 250px;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.titlesxn input{
+  width: 200px;
+  height: 40px;
+  border: solid 1px #3b94d8 ;
+  border-radius: 10px;
+  font-size: 18px;
+  padding-left: 10px;
+}
+.titlesxn button{
+  width: 160px;
+  height: 30px;
+  margin-top: 2rem;
+  border-radius: 10px;
+  border: none;
+  background-color: #0e578f;
+  padding: 3px;
+  font-size: 16px;
+  color: #ffffff;
+  
+
+}
+.titlesxn button:hover{
+  cursor: pointer;
+}
+.displaysxn{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.displaysxn h3{
+  margin: 3px;
+}
+.displaysxn img{
+  width: 200px;
+}
