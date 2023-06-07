@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background-color: #242B2E;
+    text-align: center;
+}
+.hd0{
+    color: yellow;
+    font-weight: 900;
+    margin-left: 300px;
+
+}
+.HD1{
+    color: #ffffff;
+    margin-left: 300px;
+}
+.HD2{
+    color: #ffffff;
+    margin-left: 300px;
+}
+.btn{
+    margin-left: 60px;
+    position: relative;
+    left: 130px;
+    padding: 12px;
+    text-align: center;
+    background-color: #0d0f0f;
+    color: #ffffff;
+    border: #ffffff solid 1 px ;
+    border-radius: 5px;
+    box-shadow: black;
+}
+.HD3{
+    color: #ffffff;
+    margin-left: 300px;
+    margin-top: 100px;
+}
